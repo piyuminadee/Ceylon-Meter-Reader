@@ -31,3 +31,13 @@ Unit Range	          Fixed Charge	  Per Unit Charge <br>
 First Range	               500 LKR	       20 LKR <br>
 Second Range	             1500 LKR	       35 LKR<br>
 Third Range	               -	             50 LKR<br>
+
+
+npm init -y
+npm install express mongoose body-parser cors --save
+npm install mongodb
+npm install dotenv
+
+For help : https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/
+
+
